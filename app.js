@@ -5,7 +5,7 @@
 // request from. units=metric gives us Celsius.
 // ================================================
 
-const API_KEY = "9f8b4fde61818e48fd2b8358ba558425"; // 🔑 Replace with your actual key
+const API_KEY = "API_KEY"; // 🔑 Replace with your actual key
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 
