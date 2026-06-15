@@ -3,9 +3,7 @@
 // This is where your OpenWeatherMap key goes.
 // We also define the base URL we'll build our
 // request from. units=metric gives us Celsius.
-// ================================================
-
-const API_KEY = "API_KEY"; // 🔑 Replace with your actual key
+// ================================================ 🔑 Replace with your actual key
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 
